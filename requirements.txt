@@ -1,0 +1,4 @@
+Pillow
+selenium
+discord
+requests
