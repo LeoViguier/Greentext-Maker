@@ -1,5 +1,6 @@
 # Greentext Maker
 
+A discord bot to make greentext.
 Easily make your own greentexts with this tool.
 This repo contains a Discord bot that is used to interact with greentext_maker.py, which is responsible for making the greentexts
 
